@@ -4,4 +4,4 @@
 
 I am a web enthusiast, creator of [Vuese](https://github.com/vuese/vuese).
 
-- Follow me on [Twitter](https://twitter.com/hcysunyang)
+- Follow me on [Twitter]()
